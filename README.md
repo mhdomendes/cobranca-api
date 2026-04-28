@@ -168,4 +168,4 @@ O repositório de cobranca precisa atualizar a entidade com o `lastInsertId()` a
 
 ## Resumo
 
-O projeto atende bem a proposta arquitetural do desafio, especialmente no isolamento do dominio e na separacao por camadas. Com os ajustes identificados na revisao, o fluxo de cobranca, calculo de juros e pagamento fica coerente e pronto para apresentacao tecnica.
+O projeto atende bem a proposta arquitetural do desafio, especialmente no isolamento do dominio e na separacao por camadas. O fluxo de cobranca, calculo de juros e pagamento fica coerente e pronto para apresentacao tecnica.
