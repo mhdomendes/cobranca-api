@@ -157,15 +157,6 @@ O repositório de cobranca precisa atualizar a entidade com o `lastInsertId()` a
 - Contratos definidos no dominio
 - Interface HTTP simples e direta
 - Projeto leve, sem dependencia de framework no nucleo de negocio
-
-## Melhorias futuras
-
-- Adicionar testes unitarios para entidades e casos de uso
-- Criar tratamento padrao de excecoes na interface HTTP
-- Separar DTOs de entrada e saida dos casos de uso
-- Criar um caso de uso explicito para calcular juros
-- Configurar injecao de dependencia de forma centralizada
-
 ## Resumo
 
 O projeto atende bem a proposta arquitetural do desafio, especialmente no isolamento do dominio e na separacao por camadas. O fluxo de cobranca, calculo de juros e pagamento fica coerente e pronto para apresentacao tecnica.
